@@ -1,1 +1,1 @@
-web: java --add-modules javafx.controls com.example.demo.HelloApplication
+web: java com.example.demo.HelloApplication
