@@ -1,1 +1,1 @@
-web: java -cp target\classes --module-path=C:\openjfx-17.0.2_windows-x64_bin-sdk\javafx-sdk-17.0.2\lib --add-modules javafx.controls com.example.demo.HelloApplication
+web: java --add-modules javafx.controls com.example.demo.HelloApplication
